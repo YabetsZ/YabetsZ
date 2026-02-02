@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning:
   - **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
   - **[Web3 and Blockchain development with Solana](https://learn.blueshift.gg/en)**
+- 🏢 Currently working as Go+Rust backend developer at **[Synheart org](https://github.com/synheart-ai)**
 - 🧩 [Open-source contributor](https://github.com/Chapa-Et/chapa-rust) to the Rust SDK for [Chapa API](https://chapa.co/about)
 - 💬 Ask me about **Node.js, Rust, Go or anything [here](https://github.com/YabetsZ/YabetsZ/issues)**
 
@@ -31,7 +32,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,rust,go,gin,java,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,rust,go,java,mongodb,postgres,prisma" />
   <br>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,postman,docker" />
 </p>
