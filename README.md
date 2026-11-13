@@ -1,40 +1,39 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Selam+👋;+I'm+Yabets+Zekaryas!;" />
-</h1>
+## Hi, I'm Yabets 👋
 
-### A backend software engineer passionate about building scalable, safe, and high-performance systems.
+**Engineering Lead at [Synheart AI](https://github.com/synheart-ai).** I build backend and systems infrastructure in **Rust** and **Go**.
 
-- 🌱 I’m currently learning:
-  - **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-  - **[Web3 and Blockchain development with Solana](https://learn.blueshift.gg/en)**
-- 🏢 Currently working as Go+Rust backend developer at **[Synheart org](https://github.com/synheart-ai)**
-- 🧩 [Open-source contributor](https://github.com/Chapa-Et/chapa-rust) to the Rust SDK for [Chapa API](https://chapa.co/about)
-- 💬 Ask me about **Node.js, Rust, Go or anything [here](https://github.com/YabetsZ/YabetsZ/issues)**
+I care about how systems are designed and how they actually get built: the tradeoffs, the failure modes, and the gap between the diagram and the running code. I lead Synheart's engineering team from Ethiopia 🇪🇹, and I write about what I learn along the way.
 
-<br>
+### What I'm working on
 
-<div align="center">
-  <a href="yabetszekaryas07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/yabets-zekaryas-manale" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://leetcode.com/u/ZYabets" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=White" target="_blank" />
-  </a>
-</div>
+- Leading engineering at **Synheart**, which builds infrastructure for understanding human state from biosignals and behavior, computed on-device
+- Rust runtimes and SDK cores, Go cloud services, and the architecture that connects them
+- **[HSI (Human State Interface)](https://github.com/synheart-ai/hsi)**: an open spec for representing and exchanging human-state signals across systems
+- A family of SDKs for Swift, Kotlin and Flutter: [wear](https://github.com/synheart-ai/synheart-wear-swift), [core](https://github.com/synheart-ai/synheart-core-swift), [behavior](https://github.com/synheart-ai/synheart-behavior-swift), [session](https://github.com/synheart-ai/synheart-session-swift)
 
-<hr>
+### What I think about
 
-## 🛠️ Languages and Tools
+`systems architecture` · `distributed systems` · `on-device compute` · `Rust & Go internals` · `API & SDK design` · `engineering leadership at early-stage startups`
 
-<br>
+### Elsewhere in open source
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,rust,go,java,mongodb,postgres,prisma" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,postman,docker" />
+- Contributor to [chapa-rust](https://github.com/Chapa-Et/chapa-rust), the Rust SDK for the Chapa payment gateway
+- [tempo](https://github.com/YabetsZ/tempo), a Rust CLI for managing code templates
+
+### Background
+
+CS & Engineering at ASTU · A2SV fellow (Gen 6) · short backend internships at Escalate.io and Ethronics-IRAS before Synheart.
+
+### Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,go,ts,postgres,mongodb,docker,linux,git" />
 </p>
 
-<hr>
+### Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=astro&logoColor=white)](https://yabetsz.github.io/portfolio/)
+[![X](https://img.shields.io/badge/@YabetsZeka-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/YabetsZeka)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/zyabets.bsky.social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yabets-zekaryas-manale)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yabetszekaryas07@gmail.com)
