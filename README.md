@@ -2,14 +2,13 @@
 
 **Engineering Lead at [Synheart AI](https://github.com/synheart-ai).** I build backend and systems infrastructure in **Rust** and **Go**.
 
-I care about how systems are designed and how they actually get built: the tradeoffs, the failure modes, and the gap between the diagram and the running code. I lead Synheart's engineering team from Ethiopia 🇪🇹, and I write about what I learn along the way.
+I care about how systems are designed and how they actually get built: the tradeoffs, the failure modes, and the gap between the diagram and the running code. I lead Synheart's engineering team, and I write about what I learn along the way.
 
 ### What I'm working on
 
 - Leading engineering at **Synheart**, which builds infrastructure for understanding human state from biosignals and behavior, computed on-device
-- Rust runtimes and SDK cores, Go cloud services, and the architecture that connects them
+- Rust runtimes, Go cloud services, and the architecture that connects them
 - **[HSI (Human State Interface)](https://github.com/synheart-ai/hsi)**: an open spec for representing and exchanging human-state signals across systems
-- A family of SDKs for Swift, Kotlin and Flutter: [wear](https://github.com/synheart-ai/synheart-wear-swift), [core](https://github.com/synheart-ai/synheart-core-swift), [behavior](https://github.com/synheart-ai/synheart-behavior-swift), [session](https://github.com/synheart-ai/synheart-session-swift)
 
 ### What I think about
 
