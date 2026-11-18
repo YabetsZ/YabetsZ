@@ -12,7 +12,7 @@ I care about how systems are designed and how they actually get built: the trade
 
 ### What I think about
 
-`systems architecture` · `distributed systems` · `on-device compute` · `Rust & Go internals` · `API & SDK design` · `engineering leadership at early-stage startups`
+`systems architecture` · `distributed systems` · `on-device compute` · `Rust & Go internals` · `API & SDK design` · `engineering leadership`
 
 ### Elsewhere in open source
 
